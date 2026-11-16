@@ -1,0 +1,1 @@
+{"version":3,"file":"clicks.repository.js","sourceRoot":"","sources":["../../../src/modules/clicks/clicks.repository.ts"],"names":[],"mappings":"AAOA,MAAM,UAAU,sBAAsB,CAAC,EAAM;IAC3C,MAAM,UAAU,GAAG,EAAE,CAAC,OAAO,CAAC,wCAAwC,CAAC,CAAC;IACxE,OAAO;QACL,MAAM,EAAE,CAAC,KAAK,EAAE,EAAE;YAChB,UAAU,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;QACxB,CAAC;KACF,CAAC;AACJ,CAAC"}
